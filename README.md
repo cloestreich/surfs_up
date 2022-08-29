@@ -1,9 +1,11 @@
 # surfs_up
 
 ##Overview
+
 Hoping to start a Surf and Ice Cream shop in Oahu, W. Avy is looking for more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year-round.
 
 ##Results
+
 Hawaii is known for its consistent temps throughout the year and the statistics above show that there is only slight variation from June to December regarding temps.
 
 --The average temperature in June is 74.9 degrees, while in December it is 71.0. Slightly cooler in December but still reasonable for outdoor recreation and dining.
@@ -11,6 +13,7 @@ Hawaii is known for its consistent temps throughout the year and the statistics 
 --The maximum temperatures for both months are consistent with the rest of the year and only a couple of degrees different (June max temp is 85 degrees, December max temp is 83 degrees).
 
 ##Summary
+
 The results show that Oahu has near ideal temperatures in June and December for a surf and ice cream shop. However, there are other factors that could affect the success of the business.
 
 Additional queries that need to be reviewed have to look at the precipitation amounts for these two months. Wind speed plays a factor as well, but that data is not provided in the database we used for the temperature query.
